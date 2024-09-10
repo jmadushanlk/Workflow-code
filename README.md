@@ -1,4 +1,4 @@
-<h1 align="center">ꪶDeploy Code By Madushan Techꫂ<br></h1>
+<h1 align="center">Deploy Code By Madushan Tech<br></h1>
 <p align="center">
 <img src="..." />
 </p>
